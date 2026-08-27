@@ -1,6 +1,6 @@
 cask "zielzeit" do
-  version "1.5"
-  sha256 "43dce75b2d5fddd9a2c235850ee9bdc590048ff3ddb0ea3396f0ac4163a9dca8"
+  version "2.0"
+  sha256 "6b292b9dd4adc050bf11fdba6551e5e04ddbb85e4ab1238c998775b269ca14c8"
 
   # The versioned asset, not the stable `Zielzeit.dmg` alias the README links. Both
   # are the same build, published twice so the "latest download" URL can stay
